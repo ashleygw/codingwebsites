@@ -1,3 +1,3 @@
 # hackerrank
 
-Some of my hacker rank solutions.
+Some of my hacker rank/ leet code solutions.
